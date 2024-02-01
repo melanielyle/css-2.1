@@ -1,0 +1,23 @@
+/* Stylesheet for position.html */
+
+.parent {
+    background-color: aqua;
+    font-size: 2em;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.child-one {
+    background-color: darkseagreen;
+    padding: 10px;
+}
+
+.child-two {
+    background-color: deeppink;
+    padding: 10px;
+}
+
+.child-three {
+    background-color: bisque;   
+    padding: 10px;
+}
